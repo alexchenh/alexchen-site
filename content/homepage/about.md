@@ -2,7 +2,7 @@
 title: Alex Chen
 draft: false
 role: Computer Science & Economics Student
-avatar: images/Casual_Profile_Pic_Red_Square.jpg
+avatar: images/Casual_Profile_Pic_Red_Square.webp
 bio: 
 organization:
   name: Yale
