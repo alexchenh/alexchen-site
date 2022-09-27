@@ -2,6 +2,15 @@
 title: Experience
 draft: false
 experiences:
+  - title: Student
+    organization:
+      name: Yale University
+      url: https://yale.edu
+    dates: "2018 - Present"
+    location: New Haven, CT
+    writeup: >
+      B.S. Computer Science and Economics
+
   - title: Product Manager Intern
     organization:
       name: Cloudflare
