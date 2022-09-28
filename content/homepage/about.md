@@ -3,7 +3,7 @@ title: Alex Chen
 draft: false
 role: Computer Science & Economics Student
 avatar: images/Casual_Profile_Pic_Red_Square.webp
-bio: 
+bio: Growing a [🪴 garden](https://garden.alexchen.site).
 organization:
   name: Yale
   url: https://yale.edu
