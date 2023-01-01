@@ -2,9 +2,9 @@
 title: Experience
 draft: false
 experiences:
-  - title: Student
+  - title: 🎓 Student
     organization:
-      name: 🎓 Yale University
+      name: Yale University
       url: https://yale.edu
     dates: "2018 - 2022"
     location: New Haven, CT
