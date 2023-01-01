@@ -9,7 +9,7 @@ theme: wangchucheng.com/hugo-eureka
 
 paginate: 3
 copyright: >
-  &copy; 2022 <a href="https://www.alexchen.site">Alexander Chen</a>
+  &copy; {year} <a href="https://www.alexchen.site">Alexander Chen</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
