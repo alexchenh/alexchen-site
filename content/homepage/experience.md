@@ -4,14 +4,14 @@ draft: false
 experiences:
   - title: Student
     organization:
-      name: Yale University
+      name: 🎓 Yale University
       url: https://yale.edu
-    dates: "2018 - Present"
+    dates: "2018 - 2022"
     location: New Haven, CT
     writeup: >
       B.S. Computer Science and Economics
 
-  - title: Product Manager Intern
+  - title: 💼 Product Manager Intern
     organization:
       name: Cloudflare
       url: https://cloudflare.com
@@ -19,7 +19,7 @@ experiences:
     location: San Francisco, CA
     writeup: >
 
-  - title: Product Manager Intern
+  - title: 💼 Product Manager Intern
     organization:
       name: Cloudflare
       url: https://cloudflare.com
@@ -27,7 +27,7 @@ experiences:
     location: Remote (San Francisco, CA)
     writeup: >
 
-  - title: Software Engineer Intern
+  - title: 💼 Software Engineer Intern
     organization:
       name: PathAI
       url: https://pathai.com
