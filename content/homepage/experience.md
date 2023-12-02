@@ -2,6 +2,14 @@
 title: Experience
 draft: false
 experiences:
+  - title: 💼 Product Manager
+    organization:
+      name: Cloudflare
+      url: https://cloudflare.com
+    dates: "2023 - Present"
+    location: San Francisco, CA
+    writeup: >
+
   - title: 🎓 Student
     organization:
       name: Yale University
