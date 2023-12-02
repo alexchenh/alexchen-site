@@ -1,8 +1,8 @@
 ---
 title: Alex Chen
 draft: false
-role: Computer Science & Economics Student
-avatar: images/Casual_Profile_Pic_Red_Square.webp
+role: Product Manager at Cloudflare
+avatar: images/20230822-DSC07730-white-bg.jpg
 bio: Growing a [🪴 garden](https://garden.alexchen.site).
 organization:
   name: Yale
