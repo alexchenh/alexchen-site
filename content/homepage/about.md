@@ -26,7 +26,7 @@ social:
 
 weight: 1
 widget:
-  handler:
+  handler: about
 
   # Options: sm, md, lg and xl. Default is md.
   width:
