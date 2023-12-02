@@ -1,12 +1,12 @@
 ---
 title: Alex Chen
 draft: false
-role: Product Manager at Cloudflare
+role: Product Manager
 avatar: images/20230822-DSC07730-white-bg.jpg
 bio: Growing a [🪴 garden](https://garden.alexchen.site).
 organization:
-  name: Yale
-  url: https://yale.edu
+  name: Cloudflare
+  url: https://cloudflare.com
 social:
   - icon: envelope
     iconPack: fas
