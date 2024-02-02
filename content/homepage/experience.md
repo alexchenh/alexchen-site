@@ -7,7 +7,7 @@ experiences:
       name: Cloudflare
       url: https://cloudflare.com
     dates: "2023 - Present"
-    location: San Francisco, CA
+    location: Remote (New York, NY)
     writeup: >
 
   - title: 🎓 Student
