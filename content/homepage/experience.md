@@ -2,11 +2,19 @@
 title: Experience
 draft: false
 experiences:
+  - title: 💼 Product Engineer
+    organization:
+      name: Miter
+      url: https://miter.com
+    dates: "2024 - Present"
+    location: New York, NY
+    writeup: >
+  
   - title: 💼 Product Manager
     organization:
       name: Cloudflare
       url: https://cloudflare.com
-    dates: "2023 - Present"
+    dates: "2023 - 2024"
     location: Remote (New York, NY)
     writeup: >
 
