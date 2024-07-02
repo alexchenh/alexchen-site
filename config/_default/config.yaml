@@ -9,7 +9,7 @@ theme: wangchucheng.com/hugo-eureka
 
 paginate: 3
 copyright: >
-  &copy; {year} <a href="https://www.alexchen.site">Alexander Chen</a>
+  &copy; {year} <a href="https://www.alexchenh.com">Alexander Chen</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
@@ -17,9 +17,6 @@ summaryLength: 75
 defaultContentLanguage: en
 hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
-
-# Uncomment for google analytics
-# googleAnalytics: UA-123-45
 
 markup:
   # Do not modify markup.highlight

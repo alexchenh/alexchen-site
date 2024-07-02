@@ -4,9 +4,10 @@
     <title>Alex Chen</title>
     <link>/authors/new-author/</link>
     <description>Recent content on Alex Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://www.alexchen.site&#34;&gt;Alexander Chen&lt;/a&gt;
-</copyright><atom:link href="/authors/new-author/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year} &lt;a href=&#34;https://www.alexchen.site&#34;&gt;Alexander Chen&lt;/a&gt;
+</copyright>
+    <atom:link href="/authors/new-author/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
